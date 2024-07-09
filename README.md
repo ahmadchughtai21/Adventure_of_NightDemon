@@ -26,6 +26,6 @@ This is a text-based adventure game called "Adventure of NightDemon" written in 
 
 If you would like to contribute to this game, feel free to fork the repository and submit a pull request with your changes.
 
-## Screenshots
+## Screenshots (SPOILER ALERT!)
 ![Screenshot 2024-07-09 175631](https://github.com/ahmadchughtai21/Adventure_of_NightDemon/assets/133879449/90e63e1a-39d1-45f9-9ee8-4f62b840dd76)
 ![Screenshot 2024-07-09 175830](https://github.com/ahmadchughtai21/Adventure_of_NightDemon/assets/133879449/bd3abdfd-a59c-4e54-ba57-a96e5482fc74)
